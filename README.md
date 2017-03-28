@@ -1,0 +1,2 @@
+# ModifiedSimplexMethod
+For course work
