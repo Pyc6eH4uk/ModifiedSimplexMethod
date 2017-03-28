@@ -1,0 +1,3 @@
+/home/pyc6eh4uk/Рабочий стол/sadas/ClionProjects/ModifedTypeOfSXNEW/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pyc6eh4uk/Рабочий стол/sadas/ClionProjects/ModifedTypeOfSXNEW/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pyc6eh4uk/Рабочий стол/sadas/ClionProjects/ModifedTypeOfSXNEW/cmake-build-debug/CMakeFiles/ModifedTypeOfSXNEW.dir

@@ -1,0 +1,1 @@
+CMake: 3.6.3@/home/pyc6eh4uk/Prog/clion-2016.3.4/bin/cmake/bin/cmake

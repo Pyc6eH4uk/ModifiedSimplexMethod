@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pyc6eh4uk/Рабочий стол/sadas/ClionProjects/ModifedTypeOfSXNEW/main.cpp
+bits/stdc++.h
+-
+
